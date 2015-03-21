@@ -13,6 +13,9 @@ generate [noracami.github.io](http://noracami.github.io) website
 :book: study
 - [Docker - 從入門到實踐](http://philipzheng.gitbooks.io/docker_practice/content/)
 
+:telescope: tools
+- [Transifex](https://www.transifex.com/)
+
 ---
 
 [noracami/hexo](https://github.com/noracami/hexo)
