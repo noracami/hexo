@@ -12,6 +12,8 @@ generate [noracami.github.io](http://noracami.github.io) website
 
 :book: study
 - [Docker - 從入門到實踐](http://philipzheng.gitbooks.io/docker_practice/content/)
+- [Interaction Design Best Practice](https://www.uxpin.com/interaction-design-best-practices-tangibles.html) - [UXPin](https://www.uxpin.com/knowledge.html)
+- ![](https://www.uxpin.com/images/books/interaction-design-best-practices-tangibles/book-knowledge.jpg)
 
 :telescope: tools
 - [Transifex](https://www.transifex.com/)
